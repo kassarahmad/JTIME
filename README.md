@@ -69,6 +69,6 @@
 
 ## ▶️ Come avviare (modalità sviluppo)
 ```powershell
-git clone https://github.com/kassarahmad/JTime-125132.git
+git clone git clone https://github.com/kassarahmad/JTIME
 cd JTime-125132
 .\gradlew clean run
